@@ -1,8 +1,11 @@
-const z = 10;
+import figlet from 'figlet';
 
-const read = (text: string) => {
-  return text;
-};
+const server = Bun.serve({
+  port: 3000,
+  fetch(req) {
+    const body = figlet.textSync('Culinary Chronicles');
+    return new Response(body);
+  },
+});
 
-const msg = read('Hello World');
-console.log(msg);
+console.log('Server is running on port 3000');
