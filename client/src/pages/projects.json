@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1546969026-c5262032df56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+    "title": "CargoMaster",
+    "price": 25,
+    "description": "CargoMaster is an open source logistics and supply chain management platform for truckers. It helps trucking companies optimize routes and manage cargo efficiently."
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1529068955484-37b935de18f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "TruckNav",
+    "price": 30,
+    "description": "TruckNav is a navigation system tailored for truckers. It provides route planning, real-time traffic updates, and information on truck-friendly rest stops."
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1610956042922-d4c403839313?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1291&q=80",
+    "title": "TruckTelematics",
+    "price": 20,
+    "description": "TruckTelematics is a telematics platform designed for trucking fleets. It tracks vehicle data, monitors driver behavior, and improves safety and efficiency."
+  },
+  {
+    "id": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1661767506945-f5e8a2ba70af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80",
+    "title": "TruckersRoute",
+    "price": 35,
+    "description": "TruckersRoute is a community-driven route planning app for truckers. It crowdsources traffic and road condition updates to help truckers find the best routes."
+  },
+  {
+    "id": 5,
+    "image": "https://plus.unsplash.com/premium_photo-1670650045209-54756fb80f7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80",
+    "title": "TruckMinder",
+    "price": 28,
+    "description": "TruckMinder is a maintenance and repair management system for truckers. It schedules maintenance tasks and tracks vehicle service history."
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1641319626759-cc9ea5b18107?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1527&q=80",
+    "title": "FreightHub",
+    "price": 22,
+    "description": "FreightHub is an open source freight brokerage platform. It connects shippers with truckers, streamlining the process of finding and booking cargo shipments."
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1643649842310-b89bcdb3832c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+    "title": "TruckChat",
+    "price": 18,
+    "description": "TruckChat is a communication app for truckers. It offers secure messaging and group chat features for drivers on the road."
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1622204861143-604843f106f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1283&q=80",
+    "title": "TruckTrack",
+    "price": 40,
+    "description": "TruckTrack is a GPS tracking and fleet management system for trucking companies. It provides real-time location data and analytics for better decision-making."
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1643895952169-f1981404458d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "TruckFuel",
+    "price": 26,
+    "description": "TruckFuel is a fuel cost optimization tool for truckers. It analyzes fuel prices along routes and suggests the most cost-effective refueling locations."
+  },
+  {
+    "id": 10,
+    "image": "https://plus.unsplash.com/premium_photo-1664298370433-2687a25a374c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "TruckInsights",
+    "price": 32,
+    "description": "TruckInsights is a data analytics platform for trucking companies. It helps in analyzing driver performance, fuel efficiency, and maintenance costs."
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1696258361311-0b25ee8af854?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+    "title": "TruckSense",
+    "price": 23,
+    "description": "TruckSense is an IoT-based solution for monitoring cargo conditions during transport. It ensures the safety and quality of transported goods."
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1623922915029-8f77db7fc1b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "TruckCraft",
+    "price": 38,
+    "description": "TruckCraft is an open source platform for truck customization and modifications. It helps truckers personalize their vehicles for specific needs."
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1696339618891-73716c4f6aca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "TruckLingo",
+    "price": 24,
+    "description": "TruckLingo is a multilingual communication tool for truckers. It supports translation and interpretation for drivers in diverse regions."
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1695807216937-fddfaa1f63ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1566&q=80",
+    "title": "TruckSimulator",
+    "price": 45,
+    "description": "TruckSimulator is a realistic truck driving simulator for aspiring and experienced truckers. It offers lifelike driving experiences and challenges."
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1348&q=80",
+    "title": "TruckAnalytics",
+    "price": 27,
+    "description": "TruckAnalytics is a business intelligence tool for trucking companies. It provides insights into market trends and competitive analysis."
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1583119912267-cc97c911e416?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "title": "TruckCommerce",
+    "price": 19,
+    "description": "TruckCommerce is an e-commerce platform for truckers to buy and sell truck-related products and accessories."
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1599894019794-50339c9ad89c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1335&q=80",
+    "title": "TruckTasker",
+    "price": 36,
+    "description": "TruckTasker is a task management and load assignment tool for trucking companies. It helps in optimizing driver schedules and deliveries."
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1576503918400-0b982e6a98bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1373&q=80",
+    "title": "TruckHealth",
+    "price": 21,
+    "description": "TruckHealth is a health and wellness app for truckers. It offers exercise routines and nutrition guidance to promote driver well-being."
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1574184180347-527304c53004?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1352&q=80",
+    "title": "TruckWeather",
+    "price": 33,
+    "description": "TruckWeather is a weather forecasting and road condition app specifically designed for truckers. It ensures safe driving in changing weather."
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1695404468642-12830a1d4c7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1468&q=80",
+    "title": "TruckMath",
+    "price": 29,
+    "description": "TruckMath is a mathematical modeling and optimization tool for trucking logistics. It helps in solving complex route and scheduling problems."
+  }
+]

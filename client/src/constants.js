@@ -1,0 +1,1 @@
+export const SAMPLE_USER_ID = '6e1d4748-b8ad-4ac3-8360-079245890f59';
